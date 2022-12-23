@@ -1,10 +1,9 @@
 # Similar_image_Prediction_Using_CNN
 This is a discord chatbot that predicts images similar to the input images 
 #How to run the chatbot 
-o create a Discord chatbot using Python, you will need to do the following:
+* create a Discord chatbot using Python, you will need to do the following:
 
-Install the discord.py library:
-pip install discord.py
+* Install the discord.py library: pip install discord.py
 
 * Create a new Discord account for the bot if you don't already have one.
 
